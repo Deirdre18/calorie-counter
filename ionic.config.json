@@ -1,0 +1,7 @@
+{
+  "name": "calorie-counter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

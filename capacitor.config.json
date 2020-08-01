@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "calorie-counter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "linuxAndroidStudioPath": "/snap/bin/android-studio",
+  "cordova": {}
+}
